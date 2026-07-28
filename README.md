@@ -22,5 +22,3 @@ Desenvolvedor Backend Júnior | Python, Java, Flask, APIs REST e IA Aplicada
 ## 📫 Redes
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gustavo%20Pestana-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-pestana-b03308329/)
-
----
