@@ -5,14 +5,53 @@ Desenvolvedor Backend Júnior | Python, Java, Flask, APIs REST e IA Aplicada
 🌐 **Projeto online:** [Blindex Demo](https://blindexdemo.netlify.app)  
 💼 **LinkedIn:** [gustavo-pestana](https://www.linkedin.com/in/gustavo-pestana-b03308329/)
 
-## 🚀 Stack
+## 🛠️ Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+<table>
+  <thead>
+    <tr>
+      <th>Categoria</th>
+      <th>Tecnologias</th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <tr>
+      <td><strong>Frontend</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React">
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt="TypeScript">
+        <img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
+      </td>
+    </tr>
+
+    <tr>
+      <td><strong>Backend</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java">
+        <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white" alt="Node.js">
+      </td>
+    </tr>
+
+    <tr>
+      <td><strong>Tools & Cloud</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker">
+        <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" alt="Vercel">
+      </td>
+    </tr>
+
+    <tr>
+      <td><strong>AI Focus</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white" alt="Google Gemini">
+        <img src="https://img.shields.io/badge/AI_Agents-181717?style=flat&logo=openai&logoColor=white" alt="AI Agents">
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ## 💼 Projetos
 
