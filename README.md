@@ -19,6 +19,7 @@ Desenvolvedor Backend Júnior | Python, Java, Flask, APIs REST e IA Aplicada
 - **[Chatbot Espaço Aquático](https://github.com/Pestana04/Chatbot-EspacoAquatico)** — Chatbot de atendimento com Python, Flask, IA e integração com WhatsApp.
 - **[Projeto Blindex Demo](https://github.com/Pestana04/Projeto-Blindex-Demo)** — Protótipo de plataforma para compra online de produtos Blindex.
 - **[MissãoHUD](https://github.com/Pestana04/Missao-HUD-Rpg-Maker-MV)** - Plugin com integração automática com Galv's Quest Log v1.3 para RPG Maker MV
+- **[TutorialHUD](https://github.com/Pestana04/Tutorial-HUD-Rpg-Maker-MV)** - Plugin com integração automática com Galv's Quest Log v1.3 e MissãoHUD para RPG Maker MV
 
 ## 📫 Redes
 
