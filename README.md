@@ -1,6 +1,6 @@
 # Olá, sou Gustavo Pestana.
 
-Desenvolvedor Backend Júnior | Python, Java, Flask, APIs REST e IA Aplicada
+Desenvolvimento de Software | Python, Java, APIs REST | Automação e Cybersecurity
 
 🌐 **Projeto online:** [Blindex Demo](https://blindexdemo.netlify.app)  
 💼 **LinkedIn:** [gustavo-pestana](https://www.linkedin.com/in/gustavo-pestana-b03308329/)
