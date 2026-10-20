@@ -16,6 +16,7 @@ Desenvolvimento de Software | Python, Java, APIs REST | Automação e Cybersecur
 
 ## 💼 Projetos
 
+- **[GPCompetition](https://github.com/Pestana04/GPCompetition)** - Aplicativo para gestão de oficina de carros de corrida.
 - **[Chatbot Espaço Aquático](https://github.com/Pestana04/Chatbot-EspacoAquatico)** — Chatbot de atendimento com Python, Flask, IA e integração com WhatsApp.
 - **[Projeto Blindex Demo](https://github.com/Pestana04/Projeto-Blindex-Demo)** — Protótipo de plataforma para compra online de produtos Blindex.
 - **[MissãoHUD](https://github.com/Pestana04/Missao-HUD-Rpg-Maker-MV)** - Plugin com integração automática com Galv's Quest Log v1.3 para RPG Maker MV
