@@ -21,7 +21,7 @@ Desenvolvimento de Software | Python, Java, APIs REST | Automação e Cybersecur
 - **[Projeto Blindex Demo](https://github.com/Pestana04/Projeto-Blindex-Demo)** — Protótipo de plataforma para compra online de produtos Blindex.
 - **[MissãoHUD](https://github.com/Pestana04/Missao-HUD-Rpg-Maker-MV)** - Plugin com integração automática com Galv's Quest Log v1.3 para RPG Maker MV
 - **[TutorialHUD](https://github.com/Pestana04/Tutorial-HUD-Rpg-Maker-MV)** - Plugin com integração automática com Galv's Quest Log v1.3 e MissãoHUD para RPG Maker MV
-- **[Última Vigília](https://github.com/Pestana04/ultima-vigilia-web)** - Jogo de ação 2D e fantasia sombria, com combate inspirado em soulslike. Desenvolvido em JavaScript com renderização WebGL.
+- **[Última Vigília](https://github.com/Pestana04/ultima-vigilia-web)** - Jogo de ação 2D, com combate inspirado em soulslike. Desenvolvido em JavaScript com renderização WebGL.
 
       
 17:00
