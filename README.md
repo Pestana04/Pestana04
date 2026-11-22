@@ -2,7 +2,7 @@
 
 Desenvolvimento de Software | Python, Java, APIs REST | Automação e Cybersecurity
 
-🌐 **Projeto online:** [Blindex Demo](https://blindexdemo.netlify.app)  
+🌐 **Projeto online:** [Manto de Palpites](https://mantodepalpites.com.br)  
 🎮 **Jogo web:** [Última Vigília](https://Pestana04.github.io/ultima-vigilia-web/)    
 💼 **LinkedIn:** [gustavo-pestana](https://www.linkedin.com/in/gustavo-pestana-b03308329/)
 
