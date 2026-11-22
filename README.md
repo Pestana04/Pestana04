@@ -27,7 +27,6 @@ Desenvolvimento de Software | Python, Java, APIs REST | Automação e Cybersecur
 - **[Última Vigília](https://github.com/Pestana04/ultima-vigilia-web)** - Jogo de ação 2D, com combate inspirado em soulslike. Desenvolvido em JavaScript com renderização WebGL.
 
       
-17:00
 ## 📫 Redes
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gustavo%20Pestana-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-pestana-b03308329/)
